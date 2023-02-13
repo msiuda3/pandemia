@@ -1,0 +1,11 @@
+INSERT INTO pandemia.order_items (id, order_id, item_id, amount) VALUES (25, 44, 1, 3);
+INSERT INTO pandemia.order_items (id, order_id, item_id, amount) VALUES (26, 44, 8, 2);
+INSERT INTO pandemia.order_items (id, order_id, item_id, amount) VALUES (27, 45, 3, 1);
+INSERT INTO pandemia.order_items (id, order_id, item_id, amount) VALUES (28, 45, 5, 2);
+INSERT INTO pandemia.order_items (id, order_id, item_id, amount) VALUES (29, 46, 6, 3);
+INSERT INTO pandemia.order_items (id, order_id, item_id, amount) VALUES (30, 46, 7, 2);
+INSERT INTO pandemia.order_items (id, order_id, item_id, amount) VALUES (31, 47, 6, 1);
+INSERT INTO pandemia.order_items (id, order_id, item_id, amount) VALUES (32, 47, 7, 1);
+INSERT INTO pandemia.order_items (id, order_id, item_id, amount) VALUES (33, 47, 8, 2);
+INSERT INTO pandemia.order_items (id, order_id, item_id, amount) VALUES (34, 48, 1, 2);
+INSERT INTO pandemia.order_items (id, order_id, item_id, amount) VALUES (35, 48, 3, 3);

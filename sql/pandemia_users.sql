@@ -1,0 +1,4 @@
+INSERT INTO pandemia.users (id, login, password, name, surname, address, type) VALUES (1, 'kowal', '21232f297a57a5a743894a0e4a801fc3', 'Jan', 'Kowalski', 'Szkolna 13', 'creator');
+INSERT INTO pandemia.users (id, login, password, name, surname, address, type) VALUES (2, 'adam', '81dc9bdb52d04dc20036dbd8313ed055', 'Adam', 'Konieczny', 'Szkolna 12', 'taker');
+INSERT INTO pandemia.users (id, login, password, name, surname, address, type) VALUES (4, 'szymek', 'f5e8b8af40a15304447edb133f0a1ea5', 'Szymon', 'Jóźwik', 'Mickiewicza 24', 'taker');
+INSERT INTO pandemia.users (id, login, password, name, surname, address, type) VALUES (5, 'olo', '3a660f8cfb3a1a674ce6715792f7de05', 'Aleksander', 'Sałata', 'Kopernika 11', 'creator');
